@@ -1,0 +1,7 @@
+2024/02/20-18:16:40.581 360c Recovering log #64
+2024/02/20-18:16:40.586 360c Delete type=0 #64
+2024/02/20-18:16:40.586 360c Delete type=3 #62
+2024/02/20-18:17:45.267 5dd0 Level-0 table #69: started
+2024/02/20-18:17:45.267 5dd0 Level-0 table #69: 0 bytes OK
+2024/02/20-18:17:45.269 5dd0 Delete type=0 #67
+2024/02/20-18:17:45.269 5dd0 Manual compaction at level-0 from '!folders!9cwfA0MKm5ybJcLS' @ 72057594037927935 : 1 .. '!items.effects!n3VssBp11Wp7FL2U.hEgUnQNVxtBo2zkK' @ 0 : 0; will stop at (end)
