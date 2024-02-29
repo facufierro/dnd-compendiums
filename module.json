@@ -94,6 +94,28 @@
       "label": "Subclasses",
       "path": "packs/subclasses",
       "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "class-and-subclass-features",
+      "label": "Class & Subclass Features",
+      "path": "packs/class-and-subclass-features",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "prefabs",
+      "label": "Prefabs",
+      "path": "packs/prefabs",
+      "type": "JournalEntry",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -101,10 +123,10 @@
       "system": "dnd5e"
     },
     {
-      "name": "class-and-subclass-features",
-      "label": "Class & Subclass Features",
-      "path": "packs/class-and-subclass-features",
-      "type": "Item",
+      "name": "images",
+      "label": "Images",
+      "path": "packs/images",
+      "type": "JournalEntry",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
